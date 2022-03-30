@@ -3,7 +3,8 @@
 
 #ifdef LIST_DATASTRUCTURE
 
-#include <inttypes.h>
+#include <predef.h>
+
 #include <stdbool.h>
 #include <stddef.h>
 
